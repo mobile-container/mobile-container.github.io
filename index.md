@@ -32,8 +32,8 @@ MCon has been used to train mobile agents in a major AI company.
 The code and data are currently available at our github repo, [github.com/mobile-container/mobile-container.github.io](https://github.com/mobile-container/mobile-container.github.io).
 
 ### Figures and reproduction artifacts
-All figures used in the paper are included in [`figs/`](figs/).
-The scripts/notebooks we used to generate these figures are available in [`scripts/`](scripts/).
+All figures used in the paper are included in [`figs/`](https://github.com/mobile-container/mobile-container.github.io/tree/main/figs/).
+The scripts/notebooks we used to generate these figures are available in [`scripts/`](https://github.com/mobile-container/mobile-container.github.io/tree/main/scripts/).
 
 ### Source code and data
 We have obtained permission to release our implementation. However, we are still following relevant internal procedures of the AI company for open source,
