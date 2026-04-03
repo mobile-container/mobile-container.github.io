@@ -1,3 +1,3 @@
-# MCon: Elastic Container Architecture for Mobile Applications via Framework Consolidation
+# MCon: Building an Elastic Cloud for Android Applications with Framework Consolidation
 
-For our paper website, please visit [this link](https://mobile-container.github.io)!
+This is the website repo for our paper, please visit [mobile-container.github.io](https://mobile-container.github.io)!
