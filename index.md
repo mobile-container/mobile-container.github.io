@@ -25,7 +25,7 @@ Compared to the best existing stacks, MCon achieves sub-second (15× as fast) co
 decisively improving elasticity for cloud-hosted mobile workloads.
 MCon has been used to train mobile agents in a major AI company.
 
-![MCon architecture: framework consolidation](figs/our_arch.pdf)
+![MCon architecture: framework consolidation](our_arch.png)
 
 ## Code and Data Release
 
