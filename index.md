@@ -39,7 +39,7 @@ All the released code and data can be found at our github repo, [github.com/mobi
 All the evaluation figures used in the paper are included in [`figs/`](https://github.com/mobile-container/mobile-container.github.io/tree/main/figs/).
 The scripts / jupyter notebooks we used to generate these figures are available in [`scripts/`](https://github.com/mobile-container/mobile-container.github.io/tree/main/scripts/).
 
-The top-50 apps used in the Application Benchmark is available [here](https://github.com/mobile-container/mobile-container.github.io/tree/main/docs/fifty-apps.md/).
+The table of top-50 apps used in the application benchmark (Section 7.4) is available [here](https://github.com/mobile-container/mobile-container.github.io/tree/main/docs/fifty-apps.md/).
 
 ### Source code and other documentation
 

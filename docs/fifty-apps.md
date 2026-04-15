@@ -1,9 +1,9 @@
-# The 50 top popular apps used in the Application Benchmark
+# The 50 top popular apps used in the application benchmark (Section 7.4)
 
-The apps are the top 50 apps on Google Play that does not require Google services to run.
+The below table lists the top 50 apps on Google Play that does not require Google services to run.
 The latest version as of September 2025 is used in the benchmark.
 
-| Name | Package Name | Version |
+| App Name | Package Name | Version |
 |---|---|---|
 | Airbnb | com.airbnb.android | 26.14 |
 | AliExpress - Shopping App | com.alibaba.aliexpresshd | 8.145.3 |
