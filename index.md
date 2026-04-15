@@ -2,8 +2,11 @@
 ![license](https://img.shields.io/badge/Licence-Apache%202.0-blue.svg "Apache")
 
 ## Table of Contents
+
 - [Introduction](#introduction)
 - [Code and Data Release](#code-and-data-release)
+  - [Figures and reproduction artifacts](#figures-and-reproduction-artifacts)
+  - [Source code and data](#source-code-and-data)
 
 ## Introduction
 
@@ -29,14 +32,18 @@ MCon has been used to train mobile agents in a major AI company.
 
 ## Code and Data Release
 
-The code and data are currently available at our github repo, [github.com/mobile-container/mobile-container.github.io](https://github.com/mobile-container/mobile-container.github.io).
+All the released code and data can be found at our github repo, [github.com/mobile-container/mobile-container.github.io](https://github.com/mobile-container/mobile-container.github.io).
 
-### Figures and reproduction artifacts
+### Figures and scripts
+
 All the evaluation figures used in the paper are included in [`figs/`](https://github.com/mobile-container/mobile-container.github.io/tree/main/figs/).
 The scripts / jupyter notebooks we used to generate these figures are available in [`scripts/`](https://github.com/mobile-container/mobile-container.github.io/tree/main/scripts/).
 
-### Source code and data
+The top-50 apps used in the Application Benchmark is available [here](https://github.com/mobile-container/mobile-container.github.io/tree/main/docs/fifty-apps.md/).
+
+### Source code and other documentation
+
 We have obtained permission to release our full implementation. We are still following relevant internal procedures of the AI company for open source,
 so the Android source (which is large) may take some time to fully publish.
 
-More relevant details (for example, the top-50 apps used and guidelines to reproduce our results) are on their way.
+More relevant details (for example, technical details regarding our device cluster in production and guidelines to reproduce our results) are on their way.
