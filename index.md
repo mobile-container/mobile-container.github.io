@@ -1,5 +1,5 @@
 ![license](https://img.shields.io/badge/Platform-Android-green "Android")
-![license](https://img.shields.io/badge/Licence-Apache%202.0-blue.svg "Apache")
+![license](https://img.shields.io/badge/Licence-MIT-blue.svg "MIT")
 
 ## Table of Contents
 
