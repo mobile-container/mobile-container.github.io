@@ -14,6 +14,5 @@ The documentation is still being expanded, but the repository already contains s
 
 - [Published figures](../figs/)
 - [Plotting notebooks](../scripts/)
-- [Production article figures](assets/)
 
 ## Hope You'll Enjoy MCon, the elastic Android container system!
