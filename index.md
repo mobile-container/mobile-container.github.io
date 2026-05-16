@@ -40,8 +40,6 @@ All the released code and data can be found at our github repo, [github.com/mobi
 All the evaluation figures used in the paper are included in [`figs/`](https://github.com/mobile-container/mobile-container.github.io/tree/main/figs/).
 The scripts / jupyter notebooks we used to generate these figures are available in [`scripts/`](https://github.com/mobile-container/mobile-container.github.io/tree/main/scripts/).
 
-The table of top-50 apps used in the application benchmark (Section 7.4) is available in [`docs/fifty-apps.md`](https://github.com/mobile-container/mobile-container.github.io/tree/main/docs/fifty-apps.md).
-
 ### Source code
 
 We have obtained permission to release our full implementation. We are still following relevant internal procedures of the AI company for open source,
@@ -50,5 +48,7 @@ so the Android source (which is large) may take some time to fully publish.
 ### Other documentation
 
 MCon has been adopted by a major AI company, accelerating end-to-end RL training speed of mobile agents by 56%, and reducing mobile infrastructure cost by 60%. Details of the production system and the deployment experience can be found in [`docs/production.md`](https://github.com/mobile-container/mobile-container.github.io/tree/main/docs/production.md).
+
+The table of top-50 apps used in the application benchmark (Section 7.4) is available in [`docs/fifty-apps.md`](https://github.com/mobile-container/mobile-container.github.io/tree/main/docs/fifty-apps.md).
 
 More relevant details (for example, build instructions and guidelines to reproduce our results) are on their way. You can track the current documentation coverage on the [`docs/README.md`](https://github.com/mobile-container/mobile-container.github.io/tree/main/docs/README.md) page.
