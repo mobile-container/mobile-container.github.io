@@ -47,7 +47,7 @@ The table of top-50 apps used in the application benchmark (Section 7.4) is avai
 We have obtained permission to release our full implementation. We are still following relevant internal procedures of the AI company for open source,
 so the Android source (which is large) may take some time to fully publish.
 
-## Other documentation
+### Other documentation
 
 MCon has been adopted by a major AI company, accelerating end-to-end RL training speed of mobile agents by 56%, and reducing mobile infrastructure cost by 60%. Details of the production system and the deployment experience can be found in [`docs/production.md`](https://github.com/mobile-container/mobile-container.github.io/tree/main/docs/production.md).
 
